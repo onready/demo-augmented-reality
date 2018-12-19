@@ -1,0 +1,12 @@
+{
+  "name": "demo-ar",
+  "version": "1.0.0",
+  "author": "Onready",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "express": "4.16.4"
+  }
+}
