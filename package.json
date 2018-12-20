@@ -4,7 +4,7 @@
   "author": "Onready",
   "license": "ISC",
   "scripts": {
-    "start": "node index"
+    "start": "node server"
   },
   "dependencies": {
     "express": "4.16.4"
